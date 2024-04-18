@@ -1,5 +1,4 @@
-## CIS-662: Machine Learning @ Syracuse University during Fall 2024 <br/>
-## Project made by Konnor Mascara with more on 403kam.net
+## CIS-662: Machine Learning @ Syracuse University during Fall 2024 <br/> Project made by Konnor Mascara with more on 403kam.net
 (Note: Due to the size 1.csv has been removed meaning the code will not work)
 
 ### csv_files, log_files, and logTOcsv.py
