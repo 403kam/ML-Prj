@@ -4,10 +4,8 @@
 ### csv_files, log_files, and logTOcsv.py
 Getting the original log files to csv to be used in the main python files.
 
-
 ### mlprj.py and mlprj-mod.py
 The main file that goes through training then tests each csv file with different models to figure out accuracy and graph.
-
 
 ### KonnorMascara_Report_CIS662
 This is a pdf of a report on results in models in machine learning.
